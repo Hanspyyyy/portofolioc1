@@ -1,7 +1,7 @@
-🚀 Hakiman's Fullstack Portfolio V5
+🚀 Hakiman Fullstack
 A high-performance portfolio system built with a focus on modern UI/UX and robust backend integration. This project features a public-facing site and a secured admin dashboard, utilizing React for the frontend and Supabase for the entire backend ecosystem.
 
-Live Demo: https://ekizr.com
+Live Demo: 
 
 🛠️ Tech Stack
 Frontend: ReactJS (Vite) & Tailwind CSS
@@ -43,7 +43,7 @@ CREATE TABLE public.profiles (
 🚀 Installation & Usage
 1. Clone & Dependencies
 Bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone 
 cd Portofolio_V5
 npm install
 2. Environment Variables
@@ -69,8 +69,8 @@ Hakiman
 
 Fullstack Developer
 
-GitHub: @EkiZR
+GitHub: 
 
-Website: ekizr.com
+Website: 
 
 Feel free to star this repo if you find it useful!
